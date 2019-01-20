@@ -6,9 +6,9 @@ import time
 exit = 0
 
 f = open("wiiu_rp.cfg", "r")
-ip_addr = f.readline()
+ip_addr = f.read()
 
-if len(ip_addr) < 6:
+if "." not in ip_addr:
 	print("Please modify the 'wiiu_rp.cfg' and put your Wiiu Local IP Address")
 
 tcp = TCPGecko(ip_addr.replace("IP= ", "").replace(" ", ""))

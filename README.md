@@ -3,6 +3,8 @@
  
  [![N|Solid](https://i.imgur.com/yT7i65Y.png)]
  
+**Thanks to RedDcuks for his CemUI API that allows to fetch title information from a Title ID**
+
  # Supported Title
  - WiiU Home Menu (Full Support)
  - Black Ops II (support coming really soon)
