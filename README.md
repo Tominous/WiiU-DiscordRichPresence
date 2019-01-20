@@ -3,6 +3,11 @@
  
  [![N|Solid](https://i.imgur.com/yT7i65Y.png)]
  
+ and this is for an unhadnled game
+ 
+ [![N|Solid]( https://i.imgur.com/2c5O9Gn.png)]
+
+ 
 **Thanks to RedDcuks for his CemUI API that allows to fetch title information from a Title ID**
 
  # Supported Title
